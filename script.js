@@ -119,7 +119,7 @@ function showResumeMessage() {
 // Function to use when you have an actual resume file
 function downloadActualResume() {
   // Replace 'path/to/your/resume.pdf' with the actual path to your resume
-const resumePath = "files/Bhakti_Parsaniya_Resume.pdf"
+const resumePath = "Bhakti_Parsaniya_Resume.pdf"
   // Create a temporary link element
   const link = document.createElement("a")
   link.href = resumePath
